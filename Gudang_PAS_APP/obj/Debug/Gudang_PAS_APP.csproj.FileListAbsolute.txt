@@ -1,0 +1,12 @@
+D:\DPKA-Praktek\Kelas 11\Gudang_PAS_APP\Gudang_PAS_APP\bin\Debug\Gudang_PAS_APP.exe.config
+D:\DPKA-Praktek\Kelas 11\Gudang_PAS_APP\Gudang_PAS_APP\bin\Debug\Gudang_PAS_APP.exe
+D:\DPKA-Praktek\Kelas 11\Gudang_PAS_APP\Gudang_PAS_APP\bin\Debug\Gudang_PAS_APP.pdb
+D:\DPKA-Praktek\Kelas 11\Gudang_PAS_APP\Gudang_PAS_APP\obj\Debug\Gudang_PAS_APP.csproj.AssemblyReference.cache
+D:\DPKA-Praktek\Kelas 11\Gudang_PAS_APP\Gudang_PAS_APP\obj\Debug\Gudang_PAS_APP.FormGudang.resources
+D:\DPKA-Praktek\Kelas 11\Gudang_PAS_APP\Gudang_PAS_APP\obj\Debug\Gudang_PAS_APP.FormLogin.resources
+D:\DPKA-Praktek\Kelas 11\Gudang_PAS_APP\Gudang_PAS_APP\obj\Debug\Gudang_PAS_APP.NambahBarang.resources
+D:\DPKA-Praktek\Kelas 11\Gudang_PAS_APP\Gudang_PAS_APP\obj\Debug\Gudang_PAS_APP.Properties.Resources.resources
+D:\DPKA-Praktek\Kelas 11\Gudang_PAS_APP\Gudang_PAS_APP\obj\Debug\Gudang_PAS_APP.csproj.GenerateResource.cache
+D:\DPKA-Praktek\Kelas 11\Gudang_PAS_APP\Gudang_PAS_APP\obj\Debug\Gudang_PAS_APP.csproj.CoreCompileInputs.cache
+D:\DPKA-Praktek\Kelas 11\Gudang_PAS_APP\Gudang_PAS_APP\obj\Debug\Gudang_PAS_APP.exe
+D:\DPKA-Praktek\Kelas 11\Gudang_PAS_APP\Gudang_PAS_APP\obj\Debug\Gudang_PAS_APP.pdb
